@@ -94,7 +94,7 @@ section {
     opacity: 0;
   }
   .overflow {
-    overflow: hidden;
+    overflow: auto;
   }
   .overflow .background {
     opacity: 0 !important;
