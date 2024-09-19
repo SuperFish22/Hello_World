@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
   background.style.opacity = "0"; // Set opacity to 0 when the page loads
 
   // Timer variables
-  var targetDate = new Date("2024-09-23T00:00:00.000Z");
+  var targetDate = new Date("2024-09-30T00:00:00.000Z");
   var intervalId = setInterval(updateTimer, 1000);
 
   function updateTimer() {
